@@ -16,6 +16,6 @@ Use at your own risk.
 
 ## Installation
 
-Download the FlowMusicWrapper.clap and/or FlowMusicWrapper_single.vst3 and save into your plugins folder.
+Download the **FlowMusicWrapper.clap** and/or **FlowMusicWrapper_single.vst3** and save into your plugins folder.
 
 Load the plugin and select load fmx from the top right.
